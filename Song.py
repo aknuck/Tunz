@@ -15,7 +15,7 @@ class Song:
         self.name = name.capitalize() #song artist
         self.artist = artist #Song artist
         self.tags = tags #A list of attributes of the song, such as "rock, alternative"
-        self.runtime = runtime
+        self.runtime = runtime #runtime in seconds
 
     def getRuntime(self):
         return self.runtime

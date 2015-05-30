@@ -2,7 +2,9 @@
 --------
 ###Description
 
-Tünz is a command line music player and downloader. To get music you type in "download <song name>" and it pulls the audio from the first video in the youtube search results for that song name (There is a plan to optimize the results later to not include music videos, as those frequently have dialogue). Also acts as a music player for all the downloaded music. ü pronounced as it would be in german, so Tünz is pronounced Tunes ([letter ü](https://en.wikipedia.org/wiki/Ü))
+Tünz is a command line music player and downloader that makes it easy to download and play music. Downloading music is as easy as "download <song name>" and it pulls the audio from the first video in the youtube search results for that song name (There is a plan to optimize the results later to not include music videos, as those frequently have dialogue). Also acts as a music player for all the downloaded music. 
+
+*Note: ü pronounced as it would be in german, so Tünz is pronounced Tunes ([letter ü](https://en.wikipedia.org/wiki/Ü))
 
 Tünz.py vs Tünz2.py - Tünz2.py is the updated version that uses the other included class files. Currently unstable, but will have more features and will be easier to implement other features when done. Tünz.py is the original program with some of the commands implemented, but is somewhat stable. Can still have problems with renaming songs after downloading, resulting in "song not in your library" error, or even a crash. Not going to be fixed in Tünz.py, being fixed in Tünz2.py
 

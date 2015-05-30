@@ -45,9 +45,9 @@ NOTE - to queue songs in Tünz.py "add" command is used to queue songs when set 
 -------
 ###Dependencies
 
-Pygame
+Pygame (used to play the downloaded songs)
 
-youtube-dl
+youtube-dl (used to downaload the songs)
 
 -------
 ###To Be Added
